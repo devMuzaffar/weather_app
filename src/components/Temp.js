@@ -49,8 +49,8 @@ const Temp = () => {
           }}
         >
           <img
-            src="https://icons.iconarchive.com/icons/dtafalonso/win-10x/512/Weather-icon.png"
-            alt=""
+            src="https://icons.iconarchive.com/icons/dtafalonso/win-10x/512/Weather-icon.png" width={'100%'} height={'100%'}
+            alt="Logo"
           />
         </div>
 
