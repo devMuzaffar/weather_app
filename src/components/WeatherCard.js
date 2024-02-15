@@ -42,7 +42,7 @@ const WeatherCard = ({ tempInfo }) => {
       }
       setWeatherBg(weathermood);
     }
-  }, [weathermood]);
+  }, [weathermood, setWeatherBg]);
 
   // Trigger animation on every Data Change
   useEffect(() => {
